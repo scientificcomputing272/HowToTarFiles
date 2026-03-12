@@ -9,5 +9,6 @@ tar cvf **StudentNumber**.tar {**question1.py**,**question2.py**}
 bzip2 **StudentNumber**.tar
 ```
 **PRESS ENTER**
+
 In your directory you should now see **StudentNumber**.tar.bz2
 
